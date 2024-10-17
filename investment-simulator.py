@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#oii
 class Investment:
     def __init__(self, principal, rate, time):
         self.principal = principal
